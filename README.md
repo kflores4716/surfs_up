@@ -29,7 +29,7 @@ There are a few points to note when looking at these two sets of statistics:
 
 ## Summary 
 
-The summary statistics listed above show us that there are some differences in temperature between June and December. However, those differences aren’t big or drastic enough to prove to us that a surfing and ice cream shop cannot operate year-round.  
+The summary statistics listed above show us that there are some differences in temperature between June and December. However, those differences aren’t drastic enough to prove to us that a surfing and ice cream shop cannot operate year-round.  
 
 With an average temperature in December of 71 degrees, only 4 degrees lower than that of June, O’ahu should still be (on average) warm enough for surfing and/or ice cream eating in the winter. The island can get down into the 50s in December which likely is too cold to surf for most people (and perhaps too cold for ice cream), but that doesn’t seem to happen very often.  
 
